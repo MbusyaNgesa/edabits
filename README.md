@@ -4,4 +4,8 @@
 
 3. Return the Remainder from Two Numbers :: https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk
 
-4. 
+4. Is it Time for Milk and Cookies? :: https://edabit.com/challenge/hPWnaSckJke5FXNEH
+
+5. Convert age to days :: https://edabit.com/challenge/bL7hSc6Zh4zZJzGmw
+
+6. Seven Boom! :: https://edabit.com/challenge/6R6gReGTGwzpwuffD
