@@ -9,3 +9,5 @@
 5. Convert age to days :: https://edabit.com/challenge/bL7hSc6Zh4zZJzGmw
 
 6. Seven Boom! :: https://edabit.com/challenge/6R6gReGTGwzpwuffD
+
+7. Oddish or Evenish :: https://edabit.com/challenge/r6TSNwkLZ2DgsoKiH
